@@ -1,0 +1,31 @@
+.post-card .primary .content {
+  -webkit-mask-image: linear-gradient(black 175px, transparent 250px);
+  mask-image: linear-gradient(black 175px, transparent 250px);
+}
+
+.post-card .secondary .title {
+  -webkit-mask-image: linear-gradient(black 70px, transparent 125px);
+  mask-image: linear-gradient(black 70px, transparent 125px);
+}
+
+html {
+  overflow-y: scroll;
+}
+
+.post-card {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.post-card .primary .content {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+html {
+  overflow-y: scroll;
+  background-color: #f5f5f5;
+}
+
+

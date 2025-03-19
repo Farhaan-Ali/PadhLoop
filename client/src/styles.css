@@ -1,0 +1,40 @@
+html, body {
+    background-color: #ede8f5;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif; /* Ensure Poppins is applied to all text */
+    box-sizing: border-box;
+  }
+  
+  * {
+    box-sizing: inherit; /* Ensure box-sizing is inherited across elements */
+    font-family: inherit; /* Inherit the global font-family */
+  }
+  .container {
+    width: 100%; /* or use a specific width like 90% */
+    max-width: 1200px; /* Set a max width so it doesn’t become too wide on larger screens */
+    margin: 0 auto; /* Center the container */
+    padding: 0 20px; /* Add some padding for spacing */
+  }
+  
+  /* If you’re using Flexbox */
+.content-wrapper {
+  display: flex;
+  justify-content: space-between; /* Spread content evenly */
+  flex-wrap: wrap; /* Ensure items wrap on smaller screens */
+}
+
+.card {
+  flex: 1 1 45%; /* Allow cards to take up 45% of the width */
+  margin: 10px;
+}
+
+  #root {
+    min-height: 100vh;
+    background-color: #ede8f5;
+    margin: 0;
+    padding: 0;
+  }
+ 
+    
