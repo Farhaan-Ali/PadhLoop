@@ -71,6 +71,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Farhaan Ali - [@your_twitter](https://twitter.com/your_twitter)
+Farhaan Ali - [farhaanaliv@gmail.com](farhaanaliv@gmail.com)
 
-Project Link: [https://github.com/FarhaanAliV/PadhLoop](https://github.com/FarhaanAliV/PadhLoop)
+Project Link: [https://github.com/FarhaanAliV/PadhLoop](https://github.com/Farhaan-Ali/PadhLoop)
